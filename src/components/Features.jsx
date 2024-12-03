@@ -1,11 +1,11 @@
 import React from "react";
 
-import icon1 from "../images/icon.svg";
-import icon2 from "../images/icon-2.svg";
-import icon3 from "../images/icon-3.svg";
-import icon4 from "../images/icon-4.svg";
-import icon5 from "../images/icon-5.svg";
-import icon6 from "../images/icon-6.svg";
+import icon1 from "../images/Icon.svg";
+import icon2 from "../images/Icon-2.svg";
+import icon3 from "../images/Icon-3.svg";
+import icon4 from "../images/Icon-4.svg";
+import icon5 from "../images/Icon-5.svg";
+import icon6 from "../images/Icon-6.svg";
 
 const features = [
   {
